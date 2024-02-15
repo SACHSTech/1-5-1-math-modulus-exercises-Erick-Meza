@@ -14,8 +14,8 @@ class Cos3rd extends ConsoleProgram {
     double dblAngle;
 
     // receives side inputs
-    dblSide1 = readDouble("Please enter the lenght of one side: ");
-    dblSide2 = readDouble("Please enter the length of the other sie: ");
+    dblSide1 = readDouble("Please enter the length of one side: ");
+    dblSide2 = readDouble("Please enter the length of the other side: ");
     dblAngle = readDouble("Please enter an angle for the third side: ");
 
     // calculates the length of third side
